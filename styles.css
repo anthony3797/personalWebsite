@@ -74,3 +74,12 @@ p1 {
     height: 120vh;
     background-color: lightgray;
 }
+
+.resume-button {
+    border-radius: 5px;
+    border-color: cyan;
+    color: cyan;
+    background-color: #2c3235;
+    cursor: pointer;
+    padding: 10px;
+}
